@@ -1,0 +1,45 @@
+@media (max-width:450px) {
+    .wrapper{
+        width: 70%;
+        max-width: 100%;
+        padding: 3rem 2rem;
+        /* background-color: black;
+        position: absolute;
+        transform: translate(-50% , -50%);
+        top: 50%;
+        left: 50%;
+        border-radius: 5px; */
+    }
+
+    p{
+        font-size: 13px;
+        /* color: white;
+        font-weight: 400;
+        text-align: center;
+        word-wrap: break-word;
+        line-height: 35px; */
+        margin: 20px 0;
+    }
+
+    span{
+        /* display: block; */
+        width: 70%;
+        padding-left: 25%;
+        /* text-align: center; */
+        font-size: 80px;
+    }
+
+    
+button{
+    /* display: block; */
+    /* background-color: darksalmon; */
+    /* border: none; */
+    padding: 1rem;
+    font-size: 13px;
+    /* color: rgb(255, 255, 255); */
+    border-radius: 5px;
+    /* font-weight: bold; */
+    /* margin: 0 auto; */
+    /* cursor: pointer; */
+}
+}
